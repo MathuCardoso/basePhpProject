@@ -100,7 +100,7 @@ class Router
             if (self::isTheRightRoute($route, $uri)) {
 
                 if(is_callable($route['action'])) {
-                    $route['action']();
+                    $route['action']($route['params']);
                     return;
                 }
 
