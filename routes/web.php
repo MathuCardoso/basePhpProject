@@ -21,5 +21,5 @@ Router::get('/user/{nome}/{idade}', function ($params) {
 //ou
 
 // <form action="" method="POST">
-/* <?= method(PUT) ?> 
+/* <?= method(PUT) ?> */
 //O mesmo se aplica para o método DELETE.
