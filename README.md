@@ -34,7 +34,7 @@ O **Flavour** oferece ao usuário apenas um “gostinho” (flavour) da experiê
 Clone o repositório:
 
 ```bash
-git clone https://github.com/MathuCardoso/ApxBase
+git clone https://github.com/MathuCardoso/Flavour
 cd ApexBase
 ```
 
